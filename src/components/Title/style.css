@@ -1,0 +1,11 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(196, 218, 235);
+    background:rgb(46, 12, 61);
+    padding: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    border-bottom: 5px solid grey;
+}
